@@ -1,0 +1,13 @@
+{
+    "name": "larakit/sf-font-source-sans-pro",
+    "description": "[Larakit] [staticfiles] sf-font-source-sans-pro",
+    "license": "MIT",
+    "require": {
+        "larakit/lk-staticfiles": "*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
